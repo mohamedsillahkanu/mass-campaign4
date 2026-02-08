@@ -1,4 +1,4 @@
-const CACHE_NAME = 'itn-campaign-v7';
+const CACHE_NAME = 'itn-campaign-v8';
 const ASSETS = [
     './',
     'index.html',
